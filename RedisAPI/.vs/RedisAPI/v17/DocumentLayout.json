@@ -3,20 +3,43 @@
   "WorkspaceRootPath": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\redisapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:redisapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\implements\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:implements\\rediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\controllers\\rediscachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:controllers\\rediscachecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\14b652dc053e2be4ee929184697263741c54fa72da0fe9d03d57c6388943b3ee\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:controllers\\rediscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\commons\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:commons\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\contracts\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:contracts\\irediscacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\implements\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:implements\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\contracts\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:contracts\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|c:\\newprojects\\redisapi.net\\redisapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A0089B94-0144-4FB0-8F50-2E8D8BB2D828}|RedisAPI.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +49,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,54 +61,132 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "RedisAPI.http",
-              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\RedisAPI.http",
-              "RelativeDocumentMoniker": "RedisAPI.http",
-              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\RedisAPI.http",
-              "RelativeToolTip": "RedisAPI.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2025-04-27T01:36:07.332Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
-              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Properties\\launchSettings.json",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAcAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-27T01:35:58.555Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T01:31:29.084Z",
+              "WhenOpened": "2025-04-27T02:12:33.994Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "WeatherForecastController.cs",
-              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "Controllers\\WeatherForecastController.cs",
-              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "Controllers\\WeatherForecastController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAYAAAARAAAA",
+              "DocumentIndex": 5,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Commons\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "Commons\\DependencyInjection.cs",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Commons\\DependencyInjection.cs",
+              "RelativeToolTip": "Commons\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-27T01:31:09.85Z",
+              "WhenOpened": "2025-04-27T02:06:37.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RedisCacheController.cs",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Controllers\\RedisCacheController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RedisCacheController.cs",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Controllers\\RedisCacheController.cs",
+              "RelativeToolTip": "Controllers\\RedisCacheController.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:10:18.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RedisCacheService.cs",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Implements\\RedisCacheService.cs",
+              "RelativeDocumentMoniker": "Implements\\RedisCacheService.cs",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Implements\\RedisCacheService.cs",
+              "RelativeToolTip": "Implements\\RedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:08:12.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRedisCacheService.cs",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Contracts\\IRedisCacheService.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRedisCacheService.cs",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Contracts\\IRedisCacheService.cs",
+              "RelativeToolTip": "Contracts\\IRedisCacheService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:07:43.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WebApplicationBuilder.cs",
+              "DocumentMoniker": "C:\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\14b652dc053e2be4ee929184697263741c54fa72da0fe9d03d57c6388943b3ee\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\14b652dc053e2be4ee929184697263741c54fa72da0fe9d03d57c6388943b3ee\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ToolTip": "C:\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\14b652dc053e2be4ee929184697263741c54fa72da0fe9d03d57c6388943b3ee\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Ant\u00F4nio Rocha\\AppData\\Local\\SourceServer\\14b652dc053e2be4ee929184697263741c54fa72da0fe9d03d57c6388943b3ee\\src\\DefaultBuilder\\src\\WebApplicationBuilder.cs",
+              "ViewState": "AQIAAGYBAAAAAAAAAAAcwH0BAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:11:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "RedisController.cs",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Controllers\\RedisController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RedisController.cs",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Controllers\\RedisController.cs",
+              "RelativeToolTip": "Controllers\\RedisController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T01:41:39.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Implements\\RedisService.cs",
+              "RelativeDocumentMoniker": "Implements\\RedisService.cs",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Implements\\RedisService.cs",
+              "RelativeToolTip": "Implements\\RedisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:05:19.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Contracts\\IRedisService.cs",
+              "RelativeDocumentMoniker": "Contracts\\IRedisService.cs",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Contracts\\IRedisService.cs",
+              "RelativeToolTip": "Contracts\\IRedisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-27T02:04:53.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\NewProjects\\RedisAPI.NET\\RedisAPI\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwA4AAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-27T01:35:58.555Z",
               "EditorCaption": ""
             }
           ]

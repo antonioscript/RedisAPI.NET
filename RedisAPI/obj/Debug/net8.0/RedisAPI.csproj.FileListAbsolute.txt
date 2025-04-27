@@ -57,3 +57,12 @@ C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swa
 C:\NewProjects\RedisAPI.NET\RedisAPI\obj\Debug\net8.0\RedisAPI.csproj.AssemblyReference.cache
 C:\NewProjects\RedisAPI.NET\RedisAPI\obj\Debug\net8.0\RedisAPI.MvcApplicationPartsAssemblyInfo.cs
 C:\NewProjects\RedisAPI.NET\RedisAPI\obj\Debug\net8.0\RedisAPI.csproj.Up2Date
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\StackExchange.Redis.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Caching.StackExchangeRedis.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
