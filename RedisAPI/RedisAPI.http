@@ -1,0 +1,6 @@
+@RedisAPI_HostAddress = http://localhost:5062
+
+GET {{RedisAPI_HostAddress}}/swagger/
+Accept: application/json
+
+###
