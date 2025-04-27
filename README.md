@@ -62,7 +62,7 @@ Using Redis as a distributed cache, creating and retrieving key-value content th
 ### RedLock
 Using Redis for distributed locking, both with the native approach and using the RedLock library for .NET.
 
-### NuGet Packages
+## NuGet Packages
 https://www.nuget.org/packages/stackexchange.redis
 https://www.nuget.org/packages/microsoft.extensions.caching.stackexchangeredis
 https://www.nuget.org/packages/RedLock.net
