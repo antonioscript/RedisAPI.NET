@@ -66,3 +66,6 @@ C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Loggi
 C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
 C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
 C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\RedLockNet.Abstractions.dll
+C:\NewProjects\RedisAPI.NET\RedisAPI\bin\Debug\net8.0\RedLockNet.SERedis.dll

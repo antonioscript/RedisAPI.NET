@@ -9,5 +9,7 @@ public static class DependencyInjection
         services.AddScoped<IRedisService, RedisService>();
         services.AddScoped<IRedisCacheService, RedisCacheService>();
         services.AddScoped<IRedisLockService, RedisLockService>();
+        
+        services.AddScoped<RedisLockNetService>();
     }
 }

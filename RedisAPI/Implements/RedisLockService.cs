@@ -2,6 +2,8 @@
 using StackExchange.Redis;
 
 namespace RedisAPI.Implements;
+
+//OBS: Uso nativo do RedLock sem o uso do pacote: RedLock.net
 public class RedisLockService : IRedisLockService
 {
     private readonly IConnectionMultiplexer _redis;
